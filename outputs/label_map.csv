@@ -1,0 +1,18 @@
+original_class,label_index,label_name
+Broken,0,Broken
+Cut,1,Cut
+Dry Cherry,2,Dry Cherry
+Fade,3,Fade
+Floater,4,Floater
+Full Black,5,Full Black
+Full Sour,6,Full Sour
+Fungus Damange,7,Fungus Damange
+Husk,8,Husk
+Immature,9,Immature
+Parchment,10,Parchment
+Partial Black,11,Partial Black
+Partial Sour,12,Partial Sour
+Severe Insect Damange,13,Severe Insect Damange
+Shell,14,Shell
+Slight Insect Damage,15,Slight Insect Damage
+Withered,16,Withered
