@@ -1,8 +1,0 @@
-Grupo de Features,Nº de Features,Acurácia,F1-macro
-Cor + Textura,18,0.8946,0.8964
-Todas (baseline),31,0.8878,0.8866
-Forma + Cor,20,0.8776,0.8794
-Apenas Cor (HSV),14,0.8707,0.8697
-Apenas Textura,4,0.7925,0.795
-Apenas Hu,7,0.0816,0.0176
-Apenas Forma,6,0.0816,0.0176
